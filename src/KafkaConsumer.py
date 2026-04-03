@@ -19,7 +19,7 @@ consumer = KafkaConsumer('project2' , bootstrap_servers=['localhost:9092'],
 
 
 
-for c  in consumer:
+for c in consumer:
     print(c.value)
 
 
