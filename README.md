@@ -70,7 +70,6 @@ pip install -r requirements.txt
 
 ### 2. Start Kafka
 
-* Start Zookeeper
 * Start Kafka Server
 
 ### 3. Run Producer
